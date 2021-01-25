@@ -34,7 +34,7 @@ If you want to help us triage, you are very welcome to do so!
    with triage, you are representing the Flutter team, and so you want to make sure to
    make a good impression!
 
-3. Help out as described in our wiki: https://github.com/flutter/flutter/wiki/Triage
+3. Help out as described in our [wiki](https://github.com/flutter/flutter/wiki/Triage).
    You won't be able to add labels at first, so instead start by trying to
    do the other steps, e.g. trying to reproduce the problem and asking for people to
    provide enough details that you can reproduce the problem, pointing out duplicates,
